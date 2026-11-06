@@ -281,6 +281,10 @@
 
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JepongDevxyz&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff9d&text_color=c9d1d9&layout=compact&langs_count=8&card_width=340" />
 
+<br><br>
+
+<img src="https://github-trophies.vercel.app/?username=JepongDevxyz&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" />
+
 </div>
 
 <br>
