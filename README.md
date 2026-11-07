@@ -285,6 +285,14 @@
 
 <img src="https://github-trophies.vercel.app/?username=JepongDevxyz&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JepongDevxyz/JepongDevxyz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JepongDevxyz/JepongDevxyz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JepongDevxyz/JepongDevxyz/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 <br>
